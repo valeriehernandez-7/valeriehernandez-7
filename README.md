@@ -1,5 +1,3 @@
-# Hey 👋
-
 # 💫 About Me
 *{ <br> &emsp; "🎓" : "Computer Engineering , UG.", <br> &emsp; "🌐" : "Computer Networking , TECH.",<br> &emsp; "📢" : "Graphic Design , TECH. "<br>}*
 
