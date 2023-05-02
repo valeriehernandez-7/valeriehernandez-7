@@ -1,3 +1,9 @@
+<div alt="views" align="right">
+
+[![views](https://hits.sh/github.com/valeriehernandez-7.svg?style=plastic&label=%E2%80%8E&color=8952ff&labelColor=0d1117&logo=github)](https://hits.sh/github.com/valeriehernandez-7/)
+  
+</div>
+
 <div alt="cover" align="center">
 
 ![cover](https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/main/docs/img/header.gif)
