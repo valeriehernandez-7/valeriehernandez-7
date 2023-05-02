@@ -1,4 +1,4 @@
-<img alt="cover" src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/header1.gif" width="100%" height="200px"/>
+<img alt="cover" src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/header.gif" width="100%" height="300px"/>
 
 ## 🎧 Listening
 
