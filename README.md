@@ -38,9 +38,9 @@
 
 <br><br>
 
-## ⌨️ Contributions
+## 🖱 Activity
 
-<div alt="actvity" align="center">
+<div alt="activity" align="center">
 
 [![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeriehernandez-7&theme=material-palenight&hide_title=true&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
@@ -55,9 +55,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/github-contribution-grid-snake.svg">
 </picture> -->
 
-## 📊 Stats
+## 🔥 Streak
 
-<div alt="streak" align="center">
+<div alt="contrib" align="center">
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=0d1117)
 
