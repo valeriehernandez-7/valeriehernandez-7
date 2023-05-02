@@ -1,9 +1,5 @@
 ![cover](https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/main/docs/img/header.gif)
 
-<img alt="cover" src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/header.gif" width="100%" height="150px"/>
-
-
-
 <p align="center">
 <img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/fox.gif" width="50px" height="50px" alt="fox">&emsp;<img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/sprout.gif" width="15px" height="10px" alt="p1">
 $${\color{lightgreen}""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""}$$
