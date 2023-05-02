@@ -42,7 +42,7 @@
 
 <div alt="actvity" align="center">
 
-[![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeriehernandez-7&theme=material-palenight&hide_title=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeriehernandez-7&theme=material-palenight&hide_title=true&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
@@ -59,7 +59,7 @@
 
 <div alt="streak" align="center">
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=0d1117)
 
 </div>
 
