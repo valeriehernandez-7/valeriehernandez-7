@@ -1,3 +1,5 @@
+<img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:e49cfc,100:8952ff&height=100&section=header" width="100%"/>
+
 <p align="center">
 <img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/fox.gif" width="50px" height="50px" alt="fox"><img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/sprout.gif" width="15px" height="10px" alt="p1">&emsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&duration=2000&pause=500&color=F7F7F7&vCenter=true&width=270&lines=HEY+%F0%9F%91%80+;THIS+IS+VAL+%F0%9F%91%8B%F0%9F%8F%BB;WELCOME+TO+MY+WORLD+%F0%9F%8C%8E" alt="Typing SVG" /></a>
 </p>
