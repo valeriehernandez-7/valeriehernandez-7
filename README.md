@@ -1,6 +1,9 @@
 <img alt="cover" src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/header.gif" width="100%" height="200px"/>
 
-<img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/fox.gif" width="28px" height="28px" alt="fox">
+<p align="center">
+<img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/fox.gif" width="50px" height="50px" alt="fox">&emsp;<img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/sprout.gif" width="15px" height="10px" alt="p1">
+$${\color{lightgreen}""""""""""""""""""""""""""""""""""""""""""""""""""""""}$$
+</p>
 
 ## 🎧 Listening
 
@@ -19,7 +22,7 @@
 
 ## 📊 Stats
 
-<p align='center'>
+<p align="center">
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=valeriehernandez-7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false">
 <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=midnight-purple&hide_border=true">
 </p>
