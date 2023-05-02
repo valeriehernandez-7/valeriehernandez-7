@@ -3,10 +3,11 @@
 </p>
 
 ##
+<br>
 
-<br>
 ![cover](https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/main/docs/img/header.gif)
-<br>
+
+<br><br>
 
 ## 🎧 Listening
 
