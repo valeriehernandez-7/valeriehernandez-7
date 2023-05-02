@@ -14,7 +14,7 @@
 
 <br><br>
 
-## 🎧 LISTENING
+## &ensp; 🎧 &emsp; LISTENING
 
 <div alt="music" align="center">
 
@@ -24,7 +24,7 @@
 
 <br><br>
 
-## 🧠 SKILLS
+## &ensp; 🧠 &emsp; SKILLS
 
 <div alt="skills" align="center">
 
@@ -34,7 +34,7 @@
 
 <br><br>
 
-## 🖱 ACTIVITY
+## &ensp; 🖱 &emsp; ACTIVITY
 
 <div alt="activity" align="center">
 
@@ -51,7 +51,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/github-contribution-grid-snake.svg">
 </picture> -->
 
-## 🔥 STREAK
+## &ensp; 🔥 &emsp; STREAK
 
 <div alt="contrib" align="center">
 
