@@ -1,4 +1,6 @@
-<img alt="cover" src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/header.gif" width="100%" height="300px"/>
+<img alt="cover" src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/header.gif" width="100%" height="200px"/>
+
+<img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/fox.gif" width="28px" height="28px" alt="hi">
 
 ## 🎧 Listening
 
@@ -16,4 +18,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:D71F6B,100:4B046B&height=100&section=footer" width="100%"/>
+<img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:e49cfc,100:8952ff&height=100&section=footer" width="100%"/>
