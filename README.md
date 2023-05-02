@@ -11,8 +11,7 @@
 
 ## ⌨️ Contributions
 
-<img alt="Snake animation" src="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/snake.svg">
-
+<img src="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/snake.svg" alt="Snake animation" />
 
 ## 📊 Stats
 
