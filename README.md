@@ -2,6 +2,7 @@
 *{ <br> &emsp; "🎓" : "Computer Engineering , UG.", <br> &emsp; "🌐" : "Computer Networking , TECH.",<br> &emsp; "📢" : "Graphic Design , TECH. "<br>}*
 
 # 🎧 Listening
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=valehdzfdz07&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=valehdzfdz07&redirect=true)
 
 # 💻 Tech Stack
