@@ -1,6 +1,6 @@
 <div alt="views" align="right">
 
-[![views](https://hits.sh/github.com/valeriehernandez-7.svg?style=plastic&label=%E2%80%8E&color=8952ff&labelColor=0d1117&logo=github)](https://hits.sh/github.com/valeriehernandez-7/)
+[![views](https://hits.sh/github.com/valeriehernandez-7.svg?style=for-the-badge&label=VIEWS&color=8952ff&labelColor=9e98f5&logo=github)](https://hits.sh/github.com/valeriehernandez-7/)
   
 </div>
 
