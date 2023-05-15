@@ -1,6 +1,6 @@
 <div alt="views" align="right">
 
-[![views](https://hits.sh/github.com/valeriehernandez-7.svg?style=for-the-badge&label=VIEWS&color=8952ff&labelColor=9e98f5&logo=github)](https://hits.sh/github.com/valeriehernandez-7/)
+![views](https://hits.sh/github.com/valeriehernandez-7.svg?style=for-the-badge&label=VIEWS&color=8952ff&labelColor=9e98f5&logo=github)
   
 </div>
 
@@ -44,7 +44,7 @@
 
 <div alt="activity" align="center">
 
-[![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeriehernandez-7&theme=material-palenight&hide_title=true&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeriehernandez-7&theme=material-palenight&hide_title=true&hide_border=true&bg_color=0d1117)
   
 </div>
 
