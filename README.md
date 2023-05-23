@@ -42,20 +42,21 @@
 
 ## &ensp; 🖱 &emsp; ACTIVITY
 
+<!-- 
 <div alt="activity" align="center">
 
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeriehernandez-7&theme=material-palenight&hide_title=true&hide_border=true&bg_color=0d1117)
   
 </div>
+-->
 
-<br><br>
-
-<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/github-contribution-grid-snake.svg">
-</picture> -->
+</picture>
+
+<br><br>
 
 ## &ensp; 🔥 &emsp; STREAK
 
