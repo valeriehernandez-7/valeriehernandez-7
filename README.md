@@ -14,7 +14,14 @@
 
 <div alt="intro" align="center">
 <p align="center">
-<img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/fox.gif" width="50px" height="50px" alt="fox"><img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/sprout.gif" width="15px" height="10px" alt="p1">&emsp;<a><img src="https://readme-typing-svg.demolab.com?font=Righteous&duration=2000&pause=500&color=F7F7F7&vCenter=true&width=270&lines=HEY+%F0%9F%91%80+;THIS+IS+VAL+%F0%9F%91%8B%F0%9F%8F%BB;WELCOME+TO+MY+WORLD+%F0%9F%8C%8E" alt="Typing SVG" /></a>
+<img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/fox.gif" width="50px" height="50px" alt="fox"><img src="https://github.com/valeriehernandez-7/valeriehernandez-7/blob/main/docs/img/sprout.gif" width="15px" height="10px" alt="p1">&emsp;
+<a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&duration=2000&pause=500&color=F7F7F7&vCenter=true&width=270&lines=HEY+%F0%9F%91%80+;THIS+IS+VAL+%F0%9F%91%8B%F0%9F%8F%BB;WELCOME+TO+MY+WORLD+%F0%9F%8C%8E">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&duration=2000&pause=500&color=000000&vCenter=true&width=270&lines=HEY+%F0%9F%91%80+;THIS+IS+VAL+%F0%9F%91%8B%F0%9F%8F%BB;WELCOME+TO+MY+WORLD+%F0%9F%8C%8E">
+  <img alt="streak" src="https://readme-typing-svg.demolab.com?font=Righteous&duration=2000&pause=500&vCenter=true&width=270&lines=HEY+%F0%9F%91%80+;THIS+IS+VAL+%F0%9F%91%8B%F0%9F%8F%BB;WELCOME+TO+MY+WORLD+%F0%9F%8C%8E">
+</picture>  
+</a>
 </p>
 </div>
 
@@ -43,18 +50,22 @@
 ## &ensp; 🖱 &emsp; ACTIVITY
 
 <!-- 
-<div alt="activity" align="center">
+
 
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeriehernandez-7&theme=material-palenight&hide_title=true&hide_border=true&bg_color=0d1117)
   
 </div>
 -->
 
+<div alt="activity" align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valeriehernandez-7/valeriehernandez-7/output/github-contribution-grid-snake.svg">
 </picture>
+  
+</div>
 
 <br><br>
 
@@ -62,7 +73,11 @@
 
 <div alt="contrib" align="center">
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=0d1117)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=ffffff">
+  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200">
+</picture>
 
 </div>
 
