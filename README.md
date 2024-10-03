@@ -30,8 +30,9 @@
 ## &ensp; 🎧 &emsp; LISTENING
 
 <div alt="music" align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=valehdzfdz07&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=valehdzfdz07&redirect=true)
+  <br>
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=valehdzfdz07&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=8080ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=valehdzfdz07&redirect=true)
   
 </div>
 
