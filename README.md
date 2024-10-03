@@ -31,7 +31,7 @@
 
 <div alt="music" align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=valehdzfdz07&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=a49cfa&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=valehdzfdz07&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=valehdzfdz07&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=valehdzfdz07&redirect=true)
   
 </div>
 
