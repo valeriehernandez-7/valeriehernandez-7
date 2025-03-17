@@ -70,14 +70,16 @@
 
 <br><br>
 
-## &ensp; 🔥 &emsp; STREAK
+## &ensp; 🔥 &emsp; STATS
 
 <div alt="contrib" align="center">
 
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=ffffff">
-  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=valeriehernandez-7&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&layout=donut&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&layout=donut&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=ffffff">
+  <img alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&layout=donut&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200">
 </picture>
 
 </div>
