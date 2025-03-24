@@ -75,15 +75,13 @@
 <div alt="contrib" align="center">
 
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&layout=donut-vertical&theme=catppuccin_mocha&hide_border=true&hide_title=true&langs_count=20&show_icons=true&bg_color=0d1117" alt="Top_Langs" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&layout=donut&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&layout=donut&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200&background=ffffff">
-  <img alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&layout=donut&theme=material-palenight&hide_border=true&border_radius=0&card_width=1200">
-</picture>
 
 </div>
 
-<br><br>
+
 
 <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:8952ff,100:a49cfa&height=100&section=footer" width="100%"/>
