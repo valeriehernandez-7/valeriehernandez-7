@@ -76,9 +76,9 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&layout=donut-vertical&theme=catppuccin_mocha&hide_border=true&hide_title=true&langs_count=20&show_icons=true&bg_color=0d1117" alt="Top_Langs" />
+  
+  [![gitHub-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&layout=donut-vertical&theme=catppuccin_mocha&hide_border=true&hide_title=true&langs_count=20&show_icons=true&bg_color=0d1117)](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriehernandez-7&langs_count=20&show_icons=true)
 </div>
-
 
 </div>
 
